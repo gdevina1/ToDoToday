@@ -38,7 +38,7 @@
 <li>Search “TodoToday Chatbot” on the searchbar.</li>
 <li>Click on “Get Started” to initiate the chat.</li>
 <li>Start giving inputs and talk to the Chatbot.</li>
-<li id="indentation">Input suggestions: “What's going on at 7:00 pm in Boston?"</li>
+<li class="indentation">Input suggestions: “What's going on at 7:00 pm in Boston?"</li>
 
 </ul>
 
