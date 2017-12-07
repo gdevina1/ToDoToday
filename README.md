@@ -30,8 +30,6 @@
 <li>ticketpy</li>
 </ul>
 
-<h3 id="subhead2" class="subhead"> How to run the code: </h3>
-
 <h4 class="subheadsm"> How to get started: </h4>
 <ul>
 <li>Login to Facebook Account/Create a Facebook Account.</li>
