@@ -30,4 +30,4 @@ ticketpy
 <li>Search “TodoToday Chatbot” on the searchbar.</li>
 <li>Click on “Get Started” to initiate the chat.</li>
 <li>Start giving inputs and talk to the Chatbot.</li>
-
+</ul>
