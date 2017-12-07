@@ -7,13 +7,14 @@
 <br/>
 
 <h2 class="head"> Big Idea </h2>
+<hr/>
 <p> We often find ourselves pondering on what to do on a Friday or Saturday night. Having to plan where to go every weekend is too much of a hassle. Hence, we came up with an idea to make a chatbot that will give us the result just by typing one question. We decided to do it on Facebook because Facebook has a complete user interface, hosted several bots such as NBA Awards, and have a large user base. </p>
 
 <h2 class="head"> Implementation Information </h2>
 <img src="pythonflowchart.PNG" title="flowchart" alt="flowchart"/>
 
 <h2 class="head"> USER MANUAL </h2>
-
+<hr/>
 <h3 class="subhead"> Libraries to install </h3>
 <ul>
 <li>Requests</li>
@@ -35,4 +36,5 @@
 </ul>
 
 <h2 class="head"> Attribution </h2>
+<hr/>
 <p> We used this <a target="_blank" href="http://ozzieliu.com/2016/06/21/scraping-ticket-data-with-stubhub-api">website </a> as a reference to set up the StubHub's API.</p>
