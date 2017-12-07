@@ -1,6 +1,6 @@
 <br/>
 
-<h1 id="fl"> Todo Today Project Website</h1>
+<h1 id="fl"> ToDoToday Project Website</h1>
 
 <h3 id="sub">What do <span id="s1">YOU</span> want <span id="s2">to do today?</span></h3>
 
