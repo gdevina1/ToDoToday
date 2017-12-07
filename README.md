@@ -22,12 +22,16 @@
 <hr/>
 <h3 class="subhead"> Libraries to install </h3>
 <ul>
-<li>Requests</li>
+<li>Flask==0.11.1</li>
 <li>Json</li>
-<li>Base64</li>
-<li>Pprint</li>
-<li>datetime</li>
-<li>ticketpy</li>
+<li>Jinja2==2.8</li>
+<li>MarkupSafe==0.23</li>
+<li>Wekzeug==0.11.10</li>
+<li>click==6.6</li>
+<li>gunicorn==19.6.0</li>
+<li>itsdangerous==0.24</li>
+<li>requests==2.10.0</li>
+<li>wsgiref==0.1.2</li>
 </ul>
 
 <h4 class="subheadsm"> How to get started: </h4>
@@ -50,9 +54,8 @@
 
 <h2 class="head"> Attribution </h2>
 <hr/>
-<p> We used this <a target="_blank" href="http://ozzieliu.com/2016/06/21/scraping-ticket-data-with-stubhub-api">website </a> as a reference to set up the StubHub's API.</p>
-<p> This is the <a target="_blank" href="https://github.com/arcward/ticketpy"> link </a>  to the repository of ticketpy, a package we used to set up Ticketmaster's API.</p>
-
+<p>Completely self made!</p>
+<p> Used <a href="https://blog.hartleybrody.com/fb-messenger-bot/" target="_blank"> Hartley Brody's function </a>to send message back to user in the webhook.
 
 
 <br/>
