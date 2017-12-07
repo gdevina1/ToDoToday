@@ -15,12 +15,13 @@
 <h2 id="head3"> USER MANUAL </h2>
 
 <h3> Libraries to install </h3>
-Requests
-Json
-Base64
-Pprint
-datetime
-ticketpy
+<ul>
+<li>Requests</li>
+<li>Json</li>
+<li>Base64</li>
+<li>Pprint</li>
+<li>datetime</li>
+<li>ticketpy</li>
 
 <h3 id="subhead1"> How to run the code: </h3>
 
