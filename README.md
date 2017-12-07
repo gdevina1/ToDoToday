@@ -42,6 +42,14 @@
 
 <br/>
 
+<h2 class="head"> Project Evolution </h2>
+<hr/>
+<img src="evolution1.jpeg" title="Project Evolution API" alt="Project Evolution diagram"/>
+
+<br/>
+
 <h2 class="head"> Attribution </h2>
 <hr/>
 <p> We used this <a target="_blank" href="http://ozzieliu.com/2016/06/21/scraping-ticket-data-with-stubhub-api">website </a> as a reference to set up the StubHub's API.</p>
+
+
