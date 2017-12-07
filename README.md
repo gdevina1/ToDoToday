@@ -44,7 +44,7 @@
 
 <h2 class="head"> Project Evolution </h2>
 <hr/>
-<img src="evolution1.jpeg" title="Project Evolution API" alt="Project Evolution diagram"/>
+<img src="evolution2.png" title="Project Evolution" alt="Project Evolution diagram"/>
 
 <br/>
 
