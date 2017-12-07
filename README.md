@@ -14,7 +14,7 @@
 
 <h2 id="head3"> USER MANUAL </h2>
 
-<h3> Libraries to install </h3>
+<h3 id="subhead1"> Libraries to install </h3>
 <ul>
 <li>Requests</li>
 <li>Json</li>
@@ -24,9 +24,9 @@
 <li>ticketpy</li>
 </ul>
 
-<h3 id="subhead1"> How to run the code: </h3>
+<h3 id="subhead2"> How to run the code: </h3>
 
-<h4> How to get started: </h4>
+<h4 id="subhead3"> How to get started: </h4>
 <ul>
 <li>Login to Facebook Account/Create a Facebook Account.</li>
 <li>Search “TodoToday Chatbot” on the searchbar.</li>
