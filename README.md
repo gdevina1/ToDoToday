@@ -53,3 +53,6 @@
 <p> We used this <a target="_blank" href="http://ozzieliu.com/2016/06/21/scraping-ticket-data-with-stubhub-api">website </a> as a reference to set up the StubHub's API.</p>
 
 
+
+<br/>
+<br/>
